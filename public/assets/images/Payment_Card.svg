@@ -1,0 +1,33 @@
+<svg id="Payment_Card_" data-name="Payment_Card " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="233.525" height="208.93" viewBox="0 0 233.525 208.93">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.023" x2="0.5" y2="1.011" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdfeff"/>
+      <stop offset="0.996" stop-color="#ecf0f5"/>
+    </linearGradient>
+    <filter id="Path" x="21.977" y="48.072" width="211.548" height="160.858" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-color="#657a93" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path-2" data-name="Path" d="M94.485,189.343A94.672,94.672,0,1,0,0,94.671,94.527,94.527,0,0,0,94.485,189.343Z" transform="translate(11.554 0)" fill="#eaeef9"/>
+  <path id="Path-3" data-name="Path" d="M7.641,15.282A7.641,7.641,0,1,0,0,7.641,7.635,7.635,0,0,0,7.641,15.282Z" transform="translate(203.693 40.44)" fill="#eaeef9"/>
+  <path id="Path-4" data-name="Path" d="M5.218,10.436A5.218,5.218,0,1,0,0,5.218,5.214,5.214,0,0,0,5.218,10.436Z" transform="translate(217.297 15.282)" fill="#eaeef9"/>
+  <path id="Path-5" data-name="Path" d="M5.218,10.436A5.218,5.218,0,1,0,0,5.218,5.214,5.214,0,0,0,5.218,10.436Z" transform="translate(0 50.69)" fill="#eaeef9"/>
+  <path id="Path-6" data-name="Path" d="M9.691,19.382A9.691,9.691,0,1,0,0,9.691,9.693,9.693,0,0,0,9.691,19.382Z" transform="translate(5.218 155.239)" fill="#eaeef9"/>
+  <path id="Path-7" data-name="Path" d="M145.734,8.573V86.285a8.671,8.671,0,0,1-8.573,8.573H8.573A8.55,8.55,0,0,1,0,86.285V8.573A8.671,8.671,0,0,1,8.573,0H137.162A8.671,8.671,0,0,1,145.734,8.573Z" transform="translate(18.822 30.936)" fill="#d5ddea"/>
+  <path id="Path-8" data-name="Path" d="M116.289,0V51.808a8.671,8.671,0,0,1-8.573,8.573H0V8.573A8.55,8.55,0,0,1,8.573,0Z" transform="translate(48.268 65.413)" fill="#989fb0" opacity="0.3"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path)">
+    <path id="Path-9" data-name="Path" d="M132.5,94.858H13.045A12.965,12.965,0,0,1,0,81.813V13.045A12.965,12.965,0,0,1,13.045,0H132.5a12.965,12.965,0,0,1,13.045,13.045V81.813A12.965,12.965,0,0,1,132.5,94.858Z" transform="translate(54.98 70.07)" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Path-10" data-name="Path" d="M21.991,5.964H2.982A2.944,2.944,0,0,1,0,2.982,2.944,2.944,0,0,1,2.982,0H21.991a2.944,2.944,0,0,1,2.982,2.982A2.944,2.944,0,0,1,21.991,5.964Z" transform="translate(69.885 137.535)" fill="#d5ddea"/>
+  <path id="Path-11" data-name="Path" d="M21.991,5.964H2.982A2.944,2.944,0,0,1,0,2.982,2.944,2.944,0,0,1,2.982,0H21.991a2.944,2.944,0,0,1,2.982,2.982A2.944,2.944,0,0,1,21.991,5.964Z" transform="translate(100.635 137.535)" fill="#d5ddea"/>
+  <path id="Path-12" data-name="Path" d="M21.991,5.964H2.982A2.944,2.944,0,0,1,0,2.982,2.944,2.944,0,0,1,2.982,0H21.991a2.944,2.944,0,0,1,2.982,2.982A2.944,2.944,0,0,1,21.991,5.964Z" transform="translate(131.385 137.535)" fill="#d5ddea"/>
+  <path id="Path-13" data-name="Path" d="M21.991,5.964H2.982A2.944,2.944,0,0,1,0,2.982,2.944,2.944,0,0,1,2.982,0H21.991a2.944,2.944,0,0,1,2.982,2.982A2.944,2.944,0,0,1,21.991,5.964Z" transform="translate(162.134 137.535)" fill="#d5ddea"/>
+  <path id="Path-14" data-name="Path" d="M11.182,22.363A11.182,11.182,0,1,0,0,11.182,11.174,11.174,0,0,0,11.182,22.363Z" transform="translate(166.048 85.353)" fill="#989fb0"/>
+  <path id="Path-15" data-name="Path" d="M11.182,22.363A11.182,11.182,0,1,0,0,11.182,11.174,11.174,0,0,0,11.182,22.363Z" transform="translate(151.325 85.353)" fill="#d5ddea"/>
+  <path id="Path-16" data-name="Path" d="M145.548,0H0V18.263H145.548Z" transform="translate(19.009 46.777)" fill="#989fb0"/>
+  <path id="Path-17" data-name="Path" d="M23.668,19.009H2.8a2.866,2.866,0,0,1-2.8-2.8V2.8A2.866,2.866,0,0,1,2.8,0H23.482a2.866,2.866,0,0,1,2.8,2.8V16.213A2.593,2.593,0,0,1,23.668,19.009Z" transform="translate(69.885 92.249)" fill="#d5ddea"/>
+</svg>

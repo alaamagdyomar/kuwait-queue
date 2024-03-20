@@ -1,0 +1,11 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/.yarn
+**/public
+**/.next
+**/.husky
+**/public
+**/build
+

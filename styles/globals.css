@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Alexandria-Regular';
+  src: url('../public/fonts/Alexandria-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal-Medium';
+  src: url('../public/fonts/Tajawal-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alexandria-Medium';
+  src: url('../public/fonts/Alexandria-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alexandria-SemiBold';
+  src: url('../public/fonts/Alexandria-SemiBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alexandria-Light';
+  src: url('../public/fonts/Alexandria-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alexandria-Bold';
+  src: url('../public/fonts/Alexandria-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat-Arabic-Regular';
+  src: url('../public/fonts/Montserrat-Arabic-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-Alexandria-Regular {
+  font-family: 'Alexandria-Regular', 'sans-serif' !important;
+}
+
+.font-Alexandria-Medium {
+  font-family: 'Alexandria-Medium', 'sans-serif' !important;
+}
+
+.font-Alexandria-SemiBold {
+  font-family: 'Alexandria-SemiBold', 'sans-serif' !important;
+}
+
+.font-Alexandria-Light {
+  font-family: 'Alexandria-Light', 'sans-serif' !important;
+}
+
+.font-Alexandria-Bold {
+  font-family: 'Alexandria-Bold', 'sans-serif' !important;
+}
+
+.Montserrat-Arabic-Regular {
+  font-family: 'Montserrat-Arabic-Regular', 'sans-serif' !important;
+}
+
+.font-tajwal-medium,
+.Toastify__toast-body > div {
+  font-family: 'Tajawal-Medium', 'sans-serif' !important;
+}
+
+.PhoneInputCountrySelectArrow {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.PhoneInputInput {
+  outline: none;
+}
+button:disabled {
+  background-color: #b7b1ae !important;
+  border-color: #b7b1ae !important;
+  color: #fff !important;
+}
+
+@layer components {
+}
+
+/* responsive fonts */
+@layer components {
+  .xxs-mobile-xs-desktop {
+    @apply text-xxs md:text-xs;
+  }
+  .xs-mobile-sm-desktop {
+    @apply text-xs md:text-sm;
+  }
+  .sm-mobile-base-desktop {
+    @apply text-xs md:text-base;
+  }
+  .base-mobile-lg-desktop {
+    @apply text-base md:text-md xl:text-lg;
+  }
+  .lg-mobile-xl-desktop {
+    @apply text-lg md:text-xl;
+  }
+}

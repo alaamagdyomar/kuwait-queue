@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9777" data-name="Rectangle 9777" width="16" height="16" transform="translate(8 8)" fill="#1a1615" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="location" transform="translate(-8 -8)" clip-path="url(#clip-path)">
+    <g id="traffic-sign" transform="translate(8 8)">
+      <path id="Path_67291" data-name="Path 67291" d="M15.5,6.793,9.207.5A1.706,1.706,0,0,0,6.793.5L.5,6.793a1.706,1.706,0,0,0,0,2.414L6.793,15.5a1.706,1.706,0,0,0,2.414,0L15.5,9.207a1.706,1.706,0,0,0,0-2.414ZM14.793,8.5,8.5,14.793a.707.707,0,0,1-1,0L1.207,8.5a.707.707,0,0,1,0-1L7.5,1.207a.707.707,0,0,1,1,0L14.793,7.5A.7.7,0,0,1,15,8a.7.7,0,0,1-.207.5Z" fill="#1a1615"/>
+      <path id="Path_67292" data-name="Path 67292" d="M11.667,6.448c-.039-.059.082.069-1.757-1.8a.5.5,0,0,0-.713.7l.885.9H5.25a.5.5,0,0,0-.5.5V10a.5.5,0,1,0,1,0V7.25h4.279l-.885.9a.5.5,0,0,0,.713.7L11.5,7.184a.527.527,0,0,0,.17-.737Z" fill="#1a1615"/>
+    </g>
+  </g>
+</svg>

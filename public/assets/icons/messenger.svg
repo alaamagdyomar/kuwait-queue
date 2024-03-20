@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9736" data-name="Rectangle 9736" width="24" height="24" transform="translate(0.478 -0.001)" fill="#e8e5e3"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b2ff"/>
+      <stop offset="1" stop-color="#006aff"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1651" data-name="Mask Group 1651" transform="translate(-0.478 0.001)" clip-path="url(#clip-path)">
+    <g id="facebook-messenger-3_1_" data-name="facebook-messenger-3 (1)" transform="translate(1.885 1.832)">
+      <path id="Path_67183" data-name="Path 67183" d="M13.373,2.636C7.318,2.636,2.625,7.066,2.625,13.05A10.184,10.184,0,0,0,6,20.754a.865.865,0,0,1,.29.611l.058,1.91a.861.861,0,0,0,1.207.76l2.132-.94a.858.858,0,0,1,.573-.043,11.7,11.7,0,0,0,3.112.413c6.055,0,10.748-4.431,10.748-10.415S19.428,2.636,13.373,2.636Z" transform="translate(-2.625 -2.636)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      <path id="Path_67184" data-name="Path 67184" d="M6.823,15.93l3.157-5a1.615,1.615,0,0,1,2.331-.43l2.511,1.882a.646.646,0,0,0,.776,0l3.391-2.571a.51.51,0,0,1,.74.678l-3.155,5a1.615,1.615,0,0,1-2.331.43l-2.511-1.882a.646.646,0,0,0-.776,0L7.562,16.608a.51.51,0,0,1-.74-.678Z" transform="translate(-2.528 -2.469)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

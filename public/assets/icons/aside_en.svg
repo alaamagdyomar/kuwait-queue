@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="49" viewBox="0 0 49 49">
+  <defs>
+    <filter id="Rectangle_1" x="0" y="0" width="49" height="49" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"></feOffset>
+      <feGaussianBlur stdDeviation="1.5" result="blur"></feGaussianBlur>
+      <feFlood flood-opacity="0.122"></feFlood>
+      <feComposite operator="in" in2="blur"></feComposite>
+      <feComposite in="SourceGraphic"></feComposite>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9766" data-name="Rectangle 9766" width="24" height="24" transform="translate(8 8)" fill="#fff" stroke="#707070" stroke-width="1"></rect>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_9766-2" data-name="Rectangle 9766" width="24" height="24" transform="translate(8 8)" fill="#c6c6c6"></rect>
+    </clipPath>
+  </defs>
+  <g id="language" transform="translate(4.5 1.5)">
+    <g transform="matrix(1, 0, 0, 1, -4.5, -1.5)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="40" height="40" rx="20" transform="translate(4.5 1.5)" fill="#fff"></rect>
+    </g>
+    <g id="Mask_Group_1661" data-name="Mask Group 1661" clip-path="url(#clip-path)">
+      <g id="Mask_Group_1661-2" data-name="Mask Group 1661" clip-path="url(#clip-path-2)">
+        <g id="Group_1" data-name="Group 1" transform="translate(8)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="24" height="24" transform="translate(0 8)" fill="#fff"></rect>
+          <text id="ع" transform="translate(23 26)" fill="#1a1615" font-size="18" font-family="Almarai-Bold, Almarai" font-weight="700">
+            <tspan x="0" y="0">En</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+

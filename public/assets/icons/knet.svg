@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="17.339" viewBox="0 0 24 17.339">
+  <g id="KNETLogo" transform="translate(-0.245 -0.392)">
+    <g id="Group_73830" data-name="Group 73830">
+      <g id="Group_73823" data-name="Group 73823">
+        <rect id="Rectangle_9684" data-name="Rectangle 9684" width="24" height="4.506" transform="translate(0.245 13.224)" fill="#0872b9"/>
+        <rect id="Rectangle_9685" data-name="Rectangle 9685" width="24" height="4.506" transform="translate(0.245 0.392)" fill="#0872b9"/>
+      </g>
+      <rect id="Rectangle_9686" data-name="Rectangle 9686" width="24" height="7.592" transform="translate(0.245 5.29)" fill="#0872b9"/>
+      <g id="Group_73824" data-name="Group 73824">
+        <path id="Path_67144" data-name="Path 67144" d="M22.824,1.959H20.816l.147.245h2.008l.686.441s.147.147.049.245l-.784.588H19.1l-.294-.392V4.163H14.057V2.057h3.478V3.135H15.527v.392h2.449V2.106H19.3l.784.784h2.253V2.5H20.082L19,1.42h3.478Z" fill="#fff"/>
+        <rect id="Rectangle_9687" data-name="Rectangle 9687" width="0.49" height="0.441" transform="translate(19.445 3.771)" fill="#fff"/>
+        <rect id="Rectangle_9688" data-name="Rectangle 9688" width="0.49" height="0.441" transform="translate(20.62 3.771)" fill="#fff"/>
+        <rect id="Rectangle_9689" data-name="Rectangle 9689" width="0.686" height="0.637" transform="translate(3.135 1.665)" fill="#fff"/>
+        <rect id="Rectangle_9690" data-name="Rectangle 9690" width="0.686" height="0.637" transform="translate(4.016 1.665)" fill="#fff"/>
+        <rect id="Rectangle_9691" data-name="Rectangle 9691" width="0.686" height="0.637" transform="translate(9.649 1.665)" fill="#fff"/>
+        <rect id="Rectangle_9692" data-name="Rectangle 9692" width="1.763" height="0.637" transform="translate(11.167 2.694)" fill="#fff"/>
+        <path id="Path_67145" data-name="Path 67145" d="M9.306,2.449h1.224v1.42H1.42L.735,2.988,1.91,1.42h.931L2.155,2.988H8.18V2.5h.833v.49h.294Z" fill="#fff"/>
+      </g>
+      <g id="Group_73826" data-name="Group 73826">
+        <g id="Group_73825" data-name="Group 73825">
+          <path id="Path_67146" data-name="Path 67146" d="M5.584,16.849H4.8V15.527a1.379,1.379,0,0,0-.049-.539.676.676,0,0,0-.147-.2.367.367,0,0,0-.245-.049.708.708,0,0,0-.343.1.325.325,0,0,0-.2.245,1.407,1.407,0,0,0-.1.588v1.176H2.988v-2.6h.686v.392A1.206,1.206,0,0,1,4.6,14.2a1.43,1.43,0,0,1,.441.1.753.753,0,0,1,.294.2l.147.294a1.087,1.087,0,0,1,.049.441v1.616Z" fill="#fff"/>
+          <path id="Path_67147" data-name="Path 67147" d="M12.637,16.016l.735.1a1.153,1.153,0,0,1-1.224.784,1.24,1.24,0,0,1-1.078-.441,1.367,1.367,0,0,1-.294-.882,1.4,1.4,0,0,1,.392-1.029A1.219,1.219,0,0,1,12.1,14.2a1.288,1.288,0,0,1,.98.392,1.609,1.609,0,0,1,.343,1.176H11.559a.629.629,0,0,0,.2.49.6.6,0,0,0,.441.147.7.7,0,0,0,.294-.1A.8.8,0,0,0,12.637,16.016Zm.049-.686a.6.6,0,0,0-.147-.441.6.6,0,0,0-.784,0,.6.6,0,0,0-.147.441Z" fill="#fff"/>
+          <path id="Path_67148" data-name="Path 67148" d="M21.453,14.253v.539h-.49v1.42c0,.049.049.049.049.1.049,0,.1.049.147.049a.862.862,0,0,0,.294-.049l.049.539a2.459,2.459,0,0,1-.588.1.726.726,0,0,1-.343-.049,1.071,1.071,0,0,1-.245-.147.374.374,0,0,1-.1-.245c0-.1-.049-.245-.049-.49V14.89h-.343v-.539h.343v-.539l.735-.392v.931h.539Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_73829" data-name="Group 73829">
+        <g id="Group_73828" data-name="Group 73828">
+          <g id="Group_73827" data-name="Group 73827">
+            <rect id="Rectangle_9693" data-name="Rectangle 9693" width="5.682" height="6.073" transform="translate(3.478 5.878)" fill="#fbed1f"/>
+          </g>
+          <path id="Path_67149" data-name="Path 67149" d="M8.963,8.571l4.212-2.645h7.494L16.555,8.571l4.457,3.282H12.98L9.061,8.816Z" fill="#fbed1f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
